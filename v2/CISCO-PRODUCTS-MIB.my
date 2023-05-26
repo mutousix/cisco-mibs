@@ -2853,5 +2853,6 @@ ciscoCG522E                         OBJECT IDENTIFIER ::= { ciscoProducts 3283 }
 ciscoCG418E                         OBJECT IDENTIFIER ::= { ciscoProducts 3284 } -- Cisco Catalyst Cellular Gateway LTE Cat 18
 ciscoCG1134GW6                      OBJECT IDENTIFIER ::= { ciscoProducts 3285 } -- Cisco Catalyst Wireless Gateway CG113, 4G Cellular + Wi-Fi 6
 ciscoCG113W6                        OBJECT IDENTIFIER ::= { ciscoProducts 3286 } -- Cisco Catalyst Wireless Gateway CG113, Wi-Fi 6
+ciscoCG113W63434                        OBJECT IDENTIFIER ::= { ciscoProducts 3287 } -- Cisco Catalyst Wireless Gateway CG113, Wi-Fi 6
 END
 
